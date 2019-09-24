@@ -37,33 +37,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+---------------------------------------------- Lyric Search ------------------------------------------------------------
+This application was created using REACT! I'm really trying to get my practice in with using React as a front end framework and I'm really liking it the more I use React. This was another BradTraversyMedia walkthru code-alongs and again taught me a lot! I loved getting to use React's built in context API and also a public API, which in this case was MusixMatch. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This application uses the MusixMatch API to load up the top 10 popular songs in cards, which let's users click on the lyrics to that song (using their free api so only some of the lyrics are shown). There is also a search bar that lets users search their song of choice! Once a search happens the page dynamically replaces the top 10 trending songs with the top 10 results of the song searched. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+It is deployed on github pages:
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# lyricSearch
+Have fun!
